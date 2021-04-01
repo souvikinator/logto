@@ -6,7 +6,7 @@ If any bug is encountered, please do report.
 
 ## Todo
 
-[ ] Allow users to add custom logging function
+- [ ] Allow users to add custom logging function
 
 ## usage
 
