@@ -1,4 +1,4 @@
-const logto=require('./logto');
+const logto=require('../logto');
 const logger =new logto({
     // at /your/home/dir/logto/logs
     dir:"testlog",

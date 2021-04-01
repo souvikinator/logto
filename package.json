@@ -4,7 +4,7 @@
   "description": "minimal log file making module",
   "main": "logto.js",
   "scripts": {
-    "test": "node example.js"
+    "test": "node test/example.js"
   },
   "keywords": [
     "logger",
@@ -17,5 +17,14 @@
   "dependencies": {
     "fs-extra": "^9.1.0",
     "stacktracey": "^2.1.7"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarthCucumber/logto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DarthCucumber/logto/issues"
+  },
+  "homepage": "https://github.com/DarthCucumber/logto#readme"
 }
