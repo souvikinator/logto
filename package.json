@@ -1,0 +1,21 @@
+{
+  "name": "logto",
+  "version": "0.1.0",
+  "description": "minimal log file making module",
+  "main": "logto.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "keywords": [
+    "logger",
+    "logs",
+    "logfiles",
+    "files"
+  ],
+  "author": "souvikat001@gmail.com <souvikat001@gmail.com> (https://github.com/DarthCucumber)",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^9.1.0",
+    "stacktracey": "^2.1.7"
+  }
+}
